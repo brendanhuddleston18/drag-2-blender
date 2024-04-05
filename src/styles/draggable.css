@@ -1,0 +1,13 @@
+.ingredient-button {
+    height: 100%;
+    text-transform: uppercase;
+    padding: 12px 12px 12px 12px;
+    font-weight: bold;
+    background-color: cadetblue;
+    color:aliceblue;
+    border-radius: 5px;
+}
+
+.ingredient-button:hover {
+    cursor: pointer;
+}
